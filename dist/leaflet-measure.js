@@ -6378,10 +6378,10 @@ module.exports = {
 // Portuguese i18n translations
 
 module.exports = {
-  'measure': 'Medida',
-  'measureDistancesAndAreas': 'Medidade de distâncias e áreas',
+  'measure': 'Medição',
+  'measureDistancesAndAreas': 'Medição de distâncias e áreas',
   'createNewMeasurement': 'Criar uma nova medição',
-  'startCreating': 'Comece a medida adicionando pontos no mapa',
+  'startCreating': 'Comece a medição adicionando pontos no mapa',
   'finishMeasurement': 'Finalizar medição',
   'lastPoint': 'Último ponto',
   'area': 'Área',
@@ -6394,18 +6394,18 @@ module.exports = {
   'centerOnLine': 'Centralizar nesta linha',
   'centerOnLocation': 'Centralizar nesta localidade',
   'cancel': 'Cancelar',
-  'delete': 'Deletar',
+  'delete': 'Remover',
   'acres': 'Acres',
   'feet': 'Pés',
   'kilometers': 'Kilometros',
   'hectares': 'Hectares',
   'meters': 'Metros',
   'miles': 'Milhas',
-  'sqfeet': 'Sq Feet',
-  'sqmeters': 'Sq Meters',
-  'sqmiles': 'Sq Miles',
-  'decPoint': '.',
-  'thousandsSep': ','
+  'sqfeet': 'Pés quadrados',
+  'sqmeters': 'Metros quadrados',
+  'sqmiles': 'Milhas quadradas',
+  'decPoint': ',',
+  'thousandsSep': '.'
 };
 
 },{}],29:[function(require,module,exports){
