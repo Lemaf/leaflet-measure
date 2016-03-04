@@ -23,7 +23,8 @@ var i18n = new (require('i18n-2'))({
     'en': require('./i18n/en'),
     'es': require('./i18n/es'),
     'fr': require('./i18n/fr'),
-    'ru': require('./i18n/ru')
+    'ru': require('./i18n/ru'),
+    'pt-br': require('./i18n/pt-br')
   }
 });
 
